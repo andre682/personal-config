@@ -25,7 +25,7 @@
     // Very important: Install this plugin: https://github.com/be5invis/vscode-custom-css
     // you'll need to change this to an absolute path on your computer
     "vscode_custom_css.imports": [
-        "/Volumes/Macintosh HD/Users/wesbos/.vscodestyles.css"
+        "./cobalt2-custom-hacks.css"
     ],
     "editor.renderWhitespace": "all",
     "explorer.confirmDragAndDrop": false,
