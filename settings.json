@@ -1,0 +1,33 @@
+{
+    "debug.node.autoAttach": "on",
+    "editor.lineHeight": 25,
+    "editor.letterSpacing": 0.5,
+    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 17,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontWeight": "400",
+    "prettier.eslintIntegration": true,
+    "editor.cursorStyle": "line",
+    "editor.cursorWidth": 5,
+    "editor.cursorBlinking": "solid",
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.mouseWheelZoom": true,
+    "editor.showFoldingControls": "always",
+    "editor.smoothScrolling": true,
+    "editor.minimap.showSlider": "always",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "workbench.colorTheme": "Cobalt2",
+    "breadcrumbs.enabled": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "search.location": "panel",
+    // Very important: Install this plugin: https://github.com/be5invis/vscode-custom-css
+    // you'll need to change this to an absolute path on your computer
+    "vscode_custom_css.imports": [
+        "/Volumes/Macintosh HD/Users/wesbos/.vscodestyles.css"
+    ],
+    "editor.renderWhitespace": "all",
+    "explorer.confirmDragAndDrop": false,
+    "graphvizPreview.engine": "dot",
+}
