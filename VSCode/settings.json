@@ -2,7 +2,7 @@
     "debug.node.autoAttach": "on",
     "editor.lineHeight": 25,
     "editor.letterSpacing": 0.5,
-    "editor.fontFamily": "Operator Mono, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace",
     "editor.fontSize": 17,
     "files.trimTrailingWhitespace": true,
     "editor.fontWeight": "400",
