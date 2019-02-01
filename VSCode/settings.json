@@ -22,8 +22,6 @@
     "editor.formatOnPaste": true,
     "editor.formatOnType": true,
     "search.location": "panel",
-    // Very important: Install this plugin: https://github.com/be5invis/vscode-custom-css
-    // you'll need to change this to an absolute path on your computer
     "vscode_custom_css.imports": [
         "./cobalt2-custom-hacks.css"
     ],
