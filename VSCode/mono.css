@@ -1,0 +1,10 @@
+.comment,
+.attribute-name,
+.this,
+.decorator,
+.key:not(.punctuation),
+.property-name {
+    font-family: 'Ubuntu Mono';
+    font-style: italic;
+    font-size: 1.2em; // Lines up perfectly with Fira Code
+}
