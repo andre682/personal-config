@@ -63,11 +63,9 @@ ZSH_THEME="robbyrussell"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
-  thefuck
   git
   gitfast
   git-extras
-  chucknorris
   command-not-found
   docker
   docker-compose
@@ -112,6 +110,6 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
-export ANDROID_HOME=/home/andre.silva/Android/Sdk
-export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
-export JAVA_HOME=/usr/lib/jvm/java-8-oracle
+# export ANDROID_HOME=/home/andre.silva/Android/Sdk
+# export PATH=${PATH}:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools
+# export JAVA_HOME=/usr/lib/jvm/java-8-oracle
