@@ -12,7 +12,7 @@ echo "APT-GET UPDATE..."
 apt-get update -qq
 echo "Install node"
 curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
-apt-get install -y nodejs
+apt-get install -y nodejs -qq
 
 git clone --depth=1 --branch "$MAINBRANCH" "$MAINREMOTE" "$DIRECTORY"
 
