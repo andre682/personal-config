@@ -69,7 +69,6 @@ plugins=(
   command-not-found
   docker
   docker-compose
-  jira
   jsontools
   last-working-dir
   npm
