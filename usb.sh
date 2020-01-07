@@ -1,4 +1,4 @@
-# Inclui repositório universe
+# universe repository
 
 sudo add-apt-repository universe
 
